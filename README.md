@@ -8,6 +8,8 @@ I write stories with no purpose, and I never deliberately refer to or make metap
 
 So if you enjoy them, then read them, and forget them :)
 
+Most of them are written in Chinese, as I don't want make too many grammatical mistakes as I just did...
+
 ## 目录
 
 - [test](#test)
