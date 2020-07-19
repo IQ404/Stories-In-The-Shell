@@ -1,5 +1,12 @@
 # Stories inside the shell
-I use this repository to store stories that I want to tell. All the stories here are written originally by myself (unless otherwise specified) and I intensionally leave no license meaning that all the works here are under exclusive copyright - please leave what inside the shell inside the shell. I write stories with no purpose, and I never deliberately refer to or make metaphor about anything in reality: those stories are from pure imagination, and I record them here only because I think they are in some sense beautiful. So if you enjoy them, then read them, and forget them :)
+
+I use this repository to store stories that I want to tell.
+
+All the stories here are written originally by myself (unless otherwise specified) and I intensionally leave no license meaning that all the works here are under exclusive copyright - please leave what inside the shell inside the shell.
+
+I write stories with no purpose, and I never deliberately refer to or make metaphor about anything in reality: those stories are from pure imagination, and I record them here only because I think they are in some sense beautiful.
+
+So if you enjoy them, then read them, and forget them :)
 
 ## 目录
 
