@@ -8,7 +8,7 @@ I use this repository to store stories that I want to tell.
 
 All the stories here are written originally by myself (unless otherwise specified).
 
-I write stories with no purpose, and I never deliberately refer to or make metaphor about anything in reality: those stories are purely from imagination.
+I write stories with no purpose, and I never deliberately refer to or make metaphor about anything in reality: those stories are purely from my imagination.
 
 So if you enjoy them, then read them, and forget them :)
 
