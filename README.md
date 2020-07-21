@@ -14,7 +14,7 @@ So if you enjoy them, then read them, and forget them :)
 
 Most of them are written in Chinese, as I don't want make too many grammatical mistakes as I just did...
 
-
+Most of the stories listed here are to various extent incomplete: they are bound to polish and to grow indefinitely.
 
 ## 目录
 
