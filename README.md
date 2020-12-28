@@ -18,5 +18,3 @@ Note also that most of the stories listed here are to various extent incomplete:
 
 ## 目录
 
-- [test](#test)
-  - [hi](#hi)
